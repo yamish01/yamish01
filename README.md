@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on flutter , dart , figma.
+- 🌱 I’m currently learning fultter , dart.
+- 👯 I’m looking to collaborate on UI/UX.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about flutter,dart,figma.
+- 📫 How to reach me: yamishthakur@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like playing games.
 <!--
 **yamish01/yamish01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
