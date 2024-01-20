@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on flutter,dart,figma.
 - 🌱 I’m currently learning flutter,dart.
 - 👯 I’m looking to collaborate on UI/UX.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about flutter,dart,figma.
 - 📫 How to reach me: yamishthakur@gmail.com
 - 😄 Pronouns: he/him
